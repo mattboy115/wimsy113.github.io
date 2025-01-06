@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8400839a.css",
+    "main.js": "/static/js/main.86b70968.js",
+    "static/js/151.5762deb9.chunk.js": "/static/js/151.5762deb9.chunk.js",
+    "static/media/big-face.png": "/static/media/big-face.03d4d5e4abf75f5c22ad.png",
+    "static/media/hi-fi.png": "/static/media/hi-fi.93c02569bee152c5c02c.png",
+    "static/media/first-iteration.png": "/static/media/first-iteration.1641eab4177e19f1811e.png",
+    "static/media/hazadapt-rp-banner.png": "/static/media/hazadapt-rp-banner.feebde6e76c5ecd15730.png",
+    "static/media/bioPhoto.png": "/static/media/bioPhoto.b5acfcc67e3bd11e2df4.png",
+    "static/media/welldone-image.png": "/static/media/welldone-image.ccd0beded74857dd3491.png",
+    "static/media/operation-code-image.png": "/static/media/operation-code-image.d8cd0715a0950a580604.png",
+    "static/media/back-to-the.png": "/static/media/back-to-the.998255cc95ac9b4fc816.png",
+    "static/media/true-link-image.png": "/static/media/true-link-image.2df94573c37cee7f4bd8.png",
+    "static/media/hazadapt-image.png": "/static/media/hazadapt-image.c13925d2f2280e97788c.png",
+    "static/media/InriaSans-Regular.ttf": "/static/media/InriaSans-Regular.b8aeafc1e24f5145aab6.ttf",
+    "static/media/InriaSans-Bold.ttf": "/static/media/InriaSans-Bold.e0523c80f428c71ddcac.ttf",
+    "static/media/github-logo.png": "/static/media/github-logo.1777e238f99dfbc6b303.png",
+    "static/media/logo.png": "/static/media/logo.35c05b7dc9d892aaebd0.png",
+    "static/media/Kano.otf": "/static/media/Kano.f79fa1258b99c08341ad.otf",
+    "index.html": "/index.html",
+    "main.8400839a.css.map": "/static/css/main.8400839a.css.map",
+    "main.86b70968.js.map": "/static/js/main.86b70968.js.map",
+    "151.5762deb9.chunk.js.map": "/static/js/151.5762deb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8400839a.css",
+    "static/js/main.86b70968.js"
+  ]
+}

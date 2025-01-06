@@ -1,0 +1,53 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+
+
+
+.site_links a:hover {
+    background-color: #510381;
+    color: #ffffff;
+}
+
+.bottom_line {
+    background-color: #510381;
+    color: #ffffff;
+    height: 50px;
+    font-size: 1.5em;
+}
+
+.case_studies_links a {
+  text-decoration: none;
+  background-color: #58ACFD;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  width: 40%;
+  text-align: center;
+}
+
+.ha_case_studies_links a {
+  text-decoration: none;
+  background-color: #58ACFD;
+  color: white;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 5px;
+  width: 40%;
+  text-align: center;
+}
+
+
+
+
+footer {
+  background-color: #510381;
+  color: azure;
+  clear: both;
+  position: relative;
+  height: 50px;
+  text-align: center;
+}
